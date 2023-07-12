@@ -2,8 +2,8 @@
   "expo": {
     "name": "Devolá",
     "description": "Devolá",
-    "owner": "devola",
-    "slug": "devola",
+    "owner": "fnoj",
+    "slug": "devolaqa",
     "privacy": "unlisted",
     "orientation": "portrait",
     "primaryColor": "#cccccc",
@@ -32,10 +32,10 @@
       "infoPlist": {
         "NSUserTrackingUsageDescription": "Tus datos son importantes para enviarte información y ofertas",
         "NSAppTransportSecurity": {
-        "NSAllowsArbitraryLoads": true,
-        "NSAllowsArbitraryLoadsForMedia": true,
-        "NSAllowsArbitraryLoadsInWebContent": true,
-        "NSExceptionAllowsInsecureHTTPLoads": true
+          "NSAllowsArbitraryLoads": true,
+          "NSAllowsArbitraryLoadsForMedia": true,
+          "NSAllowsArbitraryLoadsInWebContent": true,
+          "NSExceptionAllowsInsecureHTTPLoads": true
         }
       }
     },
@@ -65,6 +65,11 @@
     "version": "1.8.2",
     "facebookScheme": "fb1336964526642394",
     "facebookAppId": "1336964526642394",
-    "facebookDisplayName": "Devolá"
+    "facebookDisplayName": "Devolá",
+    "extra": {
+      "eas": {
+        "projectId": "6fd6c503-5931-497b-8bce-b7cb390efa7b"
+      }
+    }
   }
 }
