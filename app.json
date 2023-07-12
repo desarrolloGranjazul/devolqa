@@ -41,7 +41,7 @@
     },
     "android": {
       "package": "com.devola",
-      "versionCode": 68,
+      "versionCode": 69,
       "permissions": [
         "ACCESS_COARSE_LOCATION",
         "ACCESS_NETWORK_STATE",

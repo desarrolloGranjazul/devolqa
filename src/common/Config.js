@@ -17,8 +17,8 @@ const url = "https://www.devola-api.com/";*/
 
 /*Conexion wordpress testing */
 
-const consumerKey = "ck_5a4227124c91f7b1da9b558615361c438bd7826c";
-const consumerSecret = "cs_37ae32dc66c7af233a560abb90f8d178c93ae168";
+const consumerKey = "ck_52727a3096dde51bfee184f0ea39a9b77a34d7e7";
+const consumerSecret = "cs_eb55f8c19750cdc18db7f648e8ee6bd309394f7a";
 const url = "https://qa.devola-api.com";
 
 
